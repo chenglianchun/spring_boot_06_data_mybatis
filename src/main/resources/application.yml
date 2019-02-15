@@ -27,7 +27,7 @@ spring:
 #      - classpath:sql/department.sql
 #      - classpath:sql/employee.sql
 mybatis:
-#  mapper映射文件
+#  mapper映射文件 s
   mapper-locations:
     - classpath:mybatis/mapper/*.xml
 #    mybatis主配置文件
